@@ -2,3 +2,5 @@ baseURL = 'https://htunne.github.io/hugo-test/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
+relativeURLs = true
+canonifyURLs = true
